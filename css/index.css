@@ -1,0 +1,24 @@
+*{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.star{
+    width: 235px;
+    height: 170px;
+    margin: 0 auto;
+}
+.star ul li {
+    display: block;
+    float: left;
+    width: 14px;
+    height: 20px;
+    background-image: url(../images/4.png);
+    margin: 5px 3px;
+}      
+.star .rainone{   
+    width: 100%;
+    height: 20px;
+    background:url(../images/3.png) no-repeat left;
+    background-size: auto 100%;
+}
